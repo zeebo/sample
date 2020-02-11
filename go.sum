@@ -1,0 +1,4 @@
+github.com/zeebo/errs v1.2.2 h1:5NFypMTuSdoySVTqlNs1dEoU21QVamMQJxW/Fii5O7g=
+github.com/zeebo/errs v1.2.2/go.mod h1:sgbWHsvVuTPHcqJJGQ1WhI5KbWlHYz+2+2C/LSEtCw4=
+github.com/zeebo/wyhash v0.0.0-20191228005337-11a718112e35 h1:TOU5RnQDg4xXZdtEprz5Hp0PzsUII39yoOBhiffngf8=
+github.com/zeebo/wyhash v0.0.0-20191228005337-11a718112e35/go.mod h1:Ti+OwfNtM5AZiYAL0kOPIfliqDP5c0VtOnnMAqzuuZk=
